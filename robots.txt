@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://data-yolilajaya.github.io/sitemap.xml
